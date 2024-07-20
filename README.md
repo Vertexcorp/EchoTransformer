@@ -46,6 +46,7 @@ from model_service import ModelService
 model_service = ModelService(config)
 output = model_service.generate("Your input text here", image_input=your_image_tensor)
 ```
+---
 
 ## Requirements
 
@@ -60,7 +61,7 @@ output = model_service.generate("Your input text here", image_input=your_image_t
 Clone this repository and install the required packages:
 
 ```sh
-git clone https://github.com/your-username/EchoTransformer.git
+git clone https://github.com/Vertexcorp/EchoTransformer.git
 cd EchoTransformer
 pip install -r requirements.txt
 ```
