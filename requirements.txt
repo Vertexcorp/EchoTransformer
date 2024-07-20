@@ -1,0 +1,5 @@
+PyTorch
+TensorFlow
+Transformers library
+torchvision
+scikit-learn
